@@ -1,0 +1,14 @@
+{
+  "justMyCode": true,
+  "stopOnEntry": false,
+  "exceptionOptions": [
+    {
+      "path": [
+        {
+          "names": ["SystemExit"]
+        }
+      ],
+      "breakMode": "never"
+    }
+  ]
+}
